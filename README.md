@@ -14,6 +14,6 @@
 | Week #3 | SQL Practice - Part 2 |  | 5 |
 | Week #3 | Tableau - Part 3 | | 10 |
 | Week #4 | Data Analysis with R | | 10 |
-| Week #4 | SQL Practice - Part 2 |  | 5 |
+| Week #4 | SQL Practice - Part 3 |  | 5 |
 | Week #4 | Data Science Project | | 2 |
 
