@@ -2,7 +2,7 @@
 
 This upskilling track helps you to develop and refine your Data Science skills and portfolio. Over four weeks you will learn new skills and revisit past projects.
 
-## Learning goals:
+## Objectives:
 - to enhance your project portfolio to attract employers
 - to deepen SQL skills through practice
 - to import data into Tableau and build visualizations 
