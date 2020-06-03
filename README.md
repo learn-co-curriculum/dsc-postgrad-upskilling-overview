@@ -1,5 +1,7 @@
 # Post Graduation Upskilling Overview
 
+## Introduction
+
 Throughout the program you developed a foundation of skills to transition you to a new career. Now we focus on positioning you in the job market. 
 
 The best evidence of your _current_ skill set is your github profile. Every project repository is a demonstration of your experience and readiness to be employed. During the program itself there is often not much time to fine tune the details of your work. Two sections of the upskilling track walk you through the steps of making your project repositories **shine**.
@@ -10,7 +12,9 @@ The topics will distributed over four weeks, and should take around 20 hours per
 
 The specific goals of the track is to:
 
-## Objectives:
+## Objectives
+
+You will be able to:
 
 - enhance your project portfolio to attract employers
 - deepen SQL skills through practice
@@ -22,20 +26,20 @@ The specific goals of the track is to:
 
 ## Weekly Overview
 
-| Week | Topic | Hours |
+| Week | Topic | Estimated Hours |
 | :---: | :---: |  :---: | 
 | Week **#1** | Introduction | 2 |
-| Week **#1** | Woo-Ing Employers: GitHub | 11.5 |
+| Week **#1** | Woo-Ing Employers: GitHub | 13 |
 | Week **#1** | Tableau Part I | 10 |
 | Week **#1** | SQL Part I | 5 |
-| Week **#2** | Woo-Ing Employers: Slides | 5 |
+| Week **#2** | Woo-Ing Employers: Slides | 8 |
 | Week **#2** | Tableau Part II | 10 |
 | Week **#3** | R Part I | 5 |
 | Week **#3** | SQL Part II | 5 |
 | Week **#3** | Tableau Part III | 10 |
 | Week **#4** | R Part II | 10 |
 | Week **#4** | SQL Part III | 5 |
-| Week **#4** | Starting A New Project | 2 |
+| Week **#4** | Starting A New Project | 3 |
 
 ## Summary 
 Let's not wait any longer! Let's get to it!
